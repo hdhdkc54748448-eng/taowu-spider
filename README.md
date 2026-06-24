@@ -1,7 +1,7 @@
 # taowu-spider
 从v2.1版本开始，ui风格抛弃原先的工业风廉价ui界面，改为质感更好的pyside6-ui,如果遇到他人售卖此软件请勿上当受骗，压缩包里留下一张png图片，请先到项目库核对这张防伪图标防伪图标如果不一致请勿下载，本人所有项目成品开源源码闭源，2.1之后都有防伪图标，2.1之前没有防伪图标都是有缺陷的，这是防伪图标：
 
-<img width="2048" height="2048" alt="taowu" src="https://github.com/user-attachments/assets/15a5ab99-6fca-4ebf-828b-8c8de44359aa" />
+<img width="746" height="746" alt="taowu" src="https://github.com/user-attachments/assets/4ad0969d-802f-486d-be52-2c5fdcb178f6" />
 
 
 本人所有项目成品开源，源码闭源，如遇售卖该软件者，请勿上当受骗。
